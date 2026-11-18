@@ -1,0 +1,6 @@
+28083273643f40fa6477ef9d53986fe216304710c4b1c743b217a4effd016339  onnxruntime-linux-aarch64-glibc2_17-Release-1.28.2.zip
+c4f8994d56191d9d2c92a961b39fe790459f2c5d155f912b239506ea31359534  onnxruntime-linux-x64-glibc2_17-Release-1.28.2.zip
+3417d0d4bf608e2532928eb1e8d6c9383b28ba449f0d02f0493e21501ab0bc74  onnxruntime-linux-x64-gpu_cuda12-1.28.2-patched.zip
+da0c23641091fdeef7d7f78551008e188741051e936ed0495011202f0268ab8b  onnxruntime-linux-x64-gpu_cuda13-1.28.2-patched.zip
+d9e5c0c79929e201f5b8eb095e6809a91ce78be9866a1bca0dfab7e20b40ae40  onnxruntime-osx-arm64-1.28.2.zip
+cef42f2a4fca3b23dd16914ead36229adc7d5c119d563aaa12cc5d1e9177f93d  onnxruntime-osx-x86_64-1.28.2.zip
